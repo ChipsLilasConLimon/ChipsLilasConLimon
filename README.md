@@ -4,7 +4,7 @@
 ## ­­­­ㅤ
 
 <p align="center">
-  <img src="./assets/archivo.gif" width="500"/>
+  <img src="./assets/Audrey Hepburn Reaction.gif" width="250"/>
 </p>
 
 ---

@@ -16,6 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-7B3FBF?style=for-the-badge&logo=csharp&logoColor=white)
 
 
 ---

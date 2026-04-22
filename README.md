@@ -1,4 +1,4 @@
-# 👋 Hi there
+# 👋 Hello there
 ---
 
 ## ­­­­ㅤ

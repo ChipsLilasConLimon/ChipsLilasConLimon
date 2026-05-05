@@ -7,6 +7,9 @@
 </p>
 
 ##
+[![Spotify](https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/ID)
+
+##
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge\&logo=java\&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)

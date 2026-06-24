@@ -9,7 +9,7 @@
 ##
 &nbsp;<div align="center">
   <a href="https://player-spotify-profile.vercel.app/redirect">
-    <img src="https://player-spotify-profile.vercel.app/api/orchestrator?show_status=true&background_type=blur_light&border_color=ffffff" alt="Spotify" />
+    <img src="https://player-spotify-profile.vercel.app/api/orchestrator?show_status=true&background_type=blur_light" alt="Spotify" />
   </a>
 </div>
 

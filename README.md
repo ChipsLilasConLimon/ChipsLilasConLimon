@@ -36,7 +36,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kalilinux/kalilinux-original.svg" title="Kali Linux" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="Unity" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" title="Godot" width="50" height="50"/>
-  <img src="https://cdn.simpleicons.org/canva" title="Canva" width="50" height="50"/>
 </p>
 
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge\&logo=java\&logoColor=black)

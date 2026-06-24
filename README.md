@@ -7,7 +7,11 @@
 </p>
 
 ##
-[![Spotify](https://img.shields.io/badge/Escuchar%20en%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5sp71CUt0jXRNqHblPGp7b)
+&nbsp;<div align="center">
+  <a href="https://player-spotify-profile.vercel.app/redirect">
+    <img src="https://player-spotify-profile.vercel.app/api/orchestrator?show_status=true&background_type=blur_light&border_color=ffffff" alt="Spotify" />
+  </a>
+</div>
 
 ##
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge\&logo=java\&logoColor=black)

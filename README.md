@@ -1,17 +1,15 @@
 # 👋 Hello there
 ---
 ## ­­­­ㅤ
-
-<p align="center">
-  <img src="./assets/Audrey Hepburn Reaction.gif" width="175"/>
-</p>
-
-##
 &nbsp;<div align="center">
   <a href="https://player-spotify-profile.vercel.app/redirect">
     <img src="https://player-spotify-profile.vercel.app/api/orchestrator?show_status=true&background_type=blur_light" alt="Spotify" />
   </a>
 </div>
+##
+<p align="center">
+  <img src="./assets/Audrey Hepburn Reaction.gif" width="175"/>
+</p>
 
 ##
 ![Java](https://img.shields.io/badge/Java-FFD43B?style=for-the-badge\&logo=java\&logoColor=black)
